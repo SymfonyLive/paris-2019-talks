@@ -69,7 +69,7 @@ By [Damien Alexandre](https://connect.symfony.com/profile/damienalexandre)
   <dd>L'annonce de HTTP/3 au début de novembre 2018 en a surpris plus d'un: moins de 4 ans la sépare de HTTP/2, alors que 8 s'était écoulé entre HTTP/1.1 et HTTP/2. Néanmoins cette version apporte une vraie complémentarité au travail réalisé sur HTTP/2, notamment sur les problématiques de latence. Ce talk reviendra sur le pourquoi de cette version 3, ce qu'elle apporte et ce qu'elle change, et ce que peuvent en attendre les développeurs web. Elle sera l'occasion également de présenter les challenges qui vont se poser à la mise en place de HTTP/3.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/bitone/3)  
 ~~Video~~
 
 By [Benoit Jacquemont](https://connect.symfony.com/profile/bit_one)  
