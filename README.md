@@ -5,7 +5,7 @@
 
 ## Keynote
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/fabpot/mailer)  
 ~~Video~~
 
 By [Fabien Potencier](https://connect.symfony.com/profile/fabpot)  
