@@ -53,7 +53,7 @@ By [Kévin Dunglas](https://connect.symfony.com/profile/dunglas)
   <dd>Tout le monde utilise Elasticsearch, mais qui en comprend vraiment les particularités ? Dans ce talk je vous expose mes recommandations sur la mise en place du moteur de recherche dans un applicatif Web et les pièges dans lesquels nous tombons le plus souvent. Du tuning de pertinence à la mise à jour de mapping en production sans perte de service, vous apprendrez à maîtriser et reprendre confiance dans votre utilisation d'Elastic avec Symfony.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://jolicode.github.io/elasticsearch-php-conf/slides/)  
 ~~Video~~
 
 By [Damien Alexandre](https://connect.symfony.com/profile/damienalexandre)  
