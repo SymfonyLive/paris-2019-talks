@@ -1,7 +1,7 @@
 # [Symfony Live - Paris 2019](http://paris2019.live.symfony.com/) talks
 
 - All talks are in **french**.
-- :confused: No joind.in link available to comment and rate talks
+- Comment and rate talks on [joind.in](https://joind.in/event/symfonylive-paris-2019/schedule/list)
 
 ## Keynote
 
