@@ -153,7 +153,7 @@ By [Jérôme Vieilledent](https://connect.symfony.com/profile/lolautruche)
   <dd>L'ORM Doctrine offre beaucoup plus de flexibilité qu'il n'y paraît. Dans cette présentation, nous allons nous intéresser à son fonctionnement interne et à ses fonctionnalités moins connues, pour découvrir comment mieux l'utiliser. Au programme, évènements et listeners, filtres, tracking policy, mais aussi des astuces sur des architectures possibles pour son code... Ne soyez pas effrayés, et attachez vos ceintures!</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/romaricdrigon/doctrine-en-dehors-des-sentiers-battus-7020e5ed-33a1-4f1d-9bf1-ea9062bdf5ed)  
 ~~Video~~
 
 By [Romaric Drigon](https://connect.symfony.com/profile/romaricdrigon)  
