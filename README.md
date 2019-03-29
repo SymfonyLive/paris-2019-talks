@@ -169,7 +169,7 @@ By [Romaric Drigon](https://connect.symfony.com/profile/romaricdrigon)
   <dd>La première chose qui est mise en avant avec API Platform c'est la capacité de faire du développement rapide d'application. C'est vrai. Ça ne signifie pas pour autant qu'il est impossible de réaliser une application complexe avec une séparation de la couche métier, de l'api publique. Voyons ensemble les mécanismes avancés d'API Platform et les outils qui en feront votre framework API en PHP.</dd>
 </dl>
 
-[Slides](https://speakerdeck.com/gregoirehebert/lecon-n-degrees-139-api-platform-ce-nest-que-pour-du-poc-faux)
+[Slides](https://speakerdeck.com/gregoirehebert/lecon-n-degrees-139-api-platform-ce-nest-que-pour-du-poc-faux)  
 ~~Video~~
 
 By [Grégoire Hébert](https://connect.symfony.com/profile/gregoirehebert)  
