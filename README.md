@@ -121,7 +121,7 @@ And [Philippe Vincent-Royol](https://connect.symfony.com/profile/dspe)
   <dd>Il existe un large choix de bundles et d'outils permettant de d'implémenter rapidement un besoin fonctionnel ou technique. Cependant, certains bundles sont plus souples, plus rapides et plus simples à prendre en main, ce qui permet de gagner en temps dans le développement d'une feature. Tout au long de mon expérience, j'ai eu l'occasion de travailler sur des projets de natures différentes, et de recenser les besoins les plus fréquents dans une application en Symfony suivant différents points: débug, performance, gestion des mails, gestion des queues, géocodage, indexation, tests fonctionnels automatisés, qualité du code ... Cette conférence permettra de détailler ces différents points avec des exemples pour illustrer.</dd>
 </dl>
 
-[Slides](https://docs.google.com/presentation/d/1eL7XT_1MNqa2NFJHzRCvhzdmxEkXiNZc-G1ktkiMCUk/edit#slide=id.g4dda0d7974_2_123)   
+[Slides](https://docs.google.com/presentation/d/1eL7XT_1MNqa2NFJHzRCvhzdmxEkXiNZc-G1ktkiMCUk/)   
 ~~Video~~
 
 By [Danielle KAYUMBI BONKOTO](https://connect.symfony.com/profile/hoddan)  
