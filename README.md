@@ -37,7 +37,7 @@ By [Titouan Galopin](https://connect.symfony.com/profile/tgalopin)
   <dd>Grâce aux nouvelles capacités de la plateforme web (web components, progressive web apps...) et à la montée en puissance des bibliothèques et frameworks JS tels que Vue, React et Angular, quasiment toutes les nouvelles apps Symfony doivent aussi tirer partie de l'écosystème frontend. Symfony 4 contient de nombreux outils rendant très facile d'intégrer les outils JS moderne dans le framework. Au cours de ce talk nous découvrirons comment utiliser ensembles VueJS (l'un des frameworks les plus populaires en JavaScript), API Platform (l'outil de référence pour la création d'API web modernes), Panther (l'outil de test E2E de Symfony qui est capable d'exécuter le JavaScript afin de progressivement améliorer nos applications grâce à JavaScript. Finalement, nous découvrirons comment l'intégration du protocole Mercure dans Symfony permet de "pusher" des mises à jour de données réel vers les clients.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://www.slideshare.net/coopTilleuls/symfony-on-steroids-vuejs-mercure-panther-138627741)  
 ~~Video~~
 
 By [Kévin Dunglas](https://connect.symfony.com/profile/dunglas)  
