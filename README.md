@@ -185,7 +185,7 @@ By [Grégoire Hébert](https://connect.symfony.com/profile/gregoirehebert)
   <dd>Avez-vous entendu parler de Symfony HttpClient ? Ce nouveau composant sera publié fin mai avec Symfony 4.3. Que diriez-vous de l'expérimenter en lançant "composer require symfony/http-client dev-master" ? C'est ce que je vous propose de faire lors de cette conférence. Nous passerons en revue ses fonctionnalités et ses caractéristiques essentielles. Suffisant pour remplacer Guzzle et consorts ? À n'en pas douter en ce qui me concerne :)</dd>
 </dl>
 
-[Slides](https://speakerdeck.com/nicolasgrekas/symfony-httpclient-what-else)
+[Slides](https://speakerdeck.com/nicolasgrekas/symfony-httpclient-what-else)  
 ~~Video~~
 
 By [Nicolas Grekas](https://connect.symfony.com/profile/nicolas-grekas)  
