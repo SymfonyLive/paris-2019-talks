@@ -239,3 +239,16 @@ By [Frédéric Bouchery](https://connect.symfony.com/profile/fbouchery)
 By [Chris Holland](https://connect.symfony.com/profile/chrisholland)  
 ![github](icon/github.png) [@elchris](https://github.com/elchris)  
 ![twitter](icon/twitter.png) [@chrisholland](https://twitter.com/chrisholland)
+
+---
+
+## Lightning talks
+
+### Pourquoi c'est cool les side-projects ?
+
+[Slides](https://slides.com/pierstoval/side-projects)
+~~Video~~
+
+By [Alex Rock](https://connect.symfony.com/profile/pierstoval)
+![github](icon/github.png) [@pierstoval](https://github.com/pierstoval)
+![twitter](icon/twitter.png) [@pierstoval](https://twitter.com/pierstoval)
