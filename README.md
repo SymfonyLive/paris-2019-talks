@@ -250,6 +250,6 @@ By [Chris Holland](https://connect.symfony.com/profile/chrisholland)
 
 [Slides](https://slides.com/pierstoval/side-projects)
 
-By [Alex Rock](https://connect.symfony.com/profile/pierstoval)
-![github](icon/github.png) [@pierstoval](https://github.com/pierstoval)
+By [Alex Rock](https://connect.symfony.com/profile/pierstoval)  
+![github](icon/github.png) [@pierstoval](https://github.com/pierstoval)  
 ![twitter](icon/twitter.png) [@pierstoval](https://twitter.com/pierstoval)
