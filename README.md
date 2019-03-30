@@ -241,13 +241,14 @@ By [Chris Holland](https://connect.symfony.com/profile/chrisholland)
 ![twitter](icon/twitter.png) [@chrisholland](https://twitter.com/chrisholland)
 
 ---
+---
+---
 
 ## Lightning talks
 
 ### Pourquoi c'est cool les side-projects ?
 
 [Slides](https://slides.com/pierstoval/side-projects)
-~~Video~~
 
 By [Alex Rock](https://connect.symfony.com/profile/pierstoval)
 ![github](icon/github.png) [@pierstoval](https://github.com/pierstoval)
