@@ -253,3 +253,15 @@ By [Chris Holland](https://connect.symfony.com/profile/chrisholland)
 By [Alex Rock](https://connect.symfony.com/profile/pierstoval)  
 ![github](icon/github.png) [@pierstoval](https://github.com/pierstoval)  
 ![twitter](icon/twitter.png) [@pierstoval](https://twitter.com/pierstoval)
+
+---
+
+### GIT - 7 min chrono
+
+[Slides](https://speakerdeck.com/woprrr/git-7-min-chrono)  
+~~Video~~
+
+By [Alexandre MALLET](https://connect.symfony.com/profile/woprrr)  
+![github](icon/github.png) [@woprrr](https://github.com/woprrr)  
+![twitter](icon/twitter.png) [@woprrr](https://twitter.com/woprrr)
+
